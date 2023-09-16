@@ -28,7 +28,7 @@
 
 
 //  Assignment
-// Multiplication and subtraction
+// Multiplication, subtraction and addition
 
 function multiply(a,b){
         console.log(a + " x " + b + " = " + (a*b))
