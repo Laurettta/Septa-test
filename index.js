@@ -25,3 +25,30 @@
 // even if they have the same description. Also, it's often used as a property key in objects.
 
 // Objects: An Objects data type is a method for encoding key value pairs. Objects are created using curly braces '{}' and can contain zero or more key-value pairs. 
+
+
+//  Assignment
+// Multiplication and subtraction
+
+function multiply(a,b){
+        console.log(a + " x " + b + " = " + (a*b))
+}
+      
+multiply(2, 3)
+multiply(4, 8)
+
+
+function sub(a,b){
+        console.log(a + " - " + b +  " = " + (a-b))
+}
+
+sub(7, 3)
+sub(8, 4)
+
+
+function add(a,b) {
+        console.log(a + " + " + b + " = " + (a+b))
+}
+
+add(3, 5)
+add(5, 9)
