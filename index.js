@@ -36,6 +36,7 @@ function multiply(a,b){
       
 multiply(2, 3)
 multiply(4, 8)
+multiply(2, 6)
 
 
 function sub(a,b){
@@ -44,6 +45,7 @@ function sub(a,b){
 
 sub(7, 3)
 sub(8, 4)
+sub(8, 2)
 
 
 function add(a,b) {
@@ -52,3 +54,4 @@ function add(a,b) {
 
 add(3, 5)
 add(5, 9)
+add(6, 9)
