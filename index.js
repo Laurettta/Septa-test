@@ -54,4 +54,4 @@ function add(a,b) {
 
 add(3, 5)
 add(5, 9)
-add(6, 9)
+add(2, 7)
