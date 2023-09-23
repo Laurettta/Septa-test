@@ -55,3 +55,16 @@ function add(a,b) {
 add(3, 5)
 add(5, 9)
 add(2, 7)
+
+
+
+let age = prompt("How old are you");
+console.log(age);
+let citizenship = prompt("Are you a citizen (YES OR NO)");
+console.log(citizenship);
+
+if (age >= 18 && citizenship == "yes"){
+        alert("You are eligible to vote")
+} else {
+        alert("You are not eligible to vote")
+};  
